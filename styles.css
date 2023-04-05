@@ -1,0 +1,12 @@
+#picture {
+    width: auto;
+    height: auto;
+
+}
+
+div {
+  text-align: center;
+  font-size: 38px;
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+}
